@@ -1,0 +1,1 @@
+Informções necessárias do projeto que não serão enviadas para o git hub
