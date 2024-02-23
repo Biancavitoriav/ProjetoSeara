@@ -3,8 +3,12 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.InputMismatchException;
 import java.util.Scanner;
+<<<<<<< HEAD
 //23/02/2024
 //Autor: Bianca Vitória Veloso
+=======
+
+>>>>>>> c46e05bf90f0c39ae6363f325f835123d37a2812
 public class Main {
     public static void main(String[] args) {
 
@@ -68,7 +72,11 @@ public class Main {
                 }
             }while(verificacao == true);
             entrada.nextLine();
+<<<<<<< HEAD
             //REALIZANDO CADASTRO DO CLIENTE
+=======
+            //FAZENDO CADASTRO DO CLIENTE
+>>>>>>> c46e05bf90f0c39ae6363f325f835123d37a2812
             if (opcaoEntrada == 1) {
                 System.out.println("CADASTRO");
                 System.out.println("Para fazer o cadastro preencha os campos corretamente!");
