@@ -14,7 +14,7 @@ public class Main {
 
         Scanner entrada = new Scanner(System.in);
 
-        //VETORES DE CONTROLES DAS CLASSES
+        //vetores de controle de classes
         Loja [] vetLoja = new Loja[3];
         vetLoja [0] = new Loja("Loja Barueri","Avenida Alphaville", "06472-020", "Não tem.", true);
         vetLoja [1] = new Loja("Loja Centro São Paulo","Avenida Paulista", "01153 000", "Não tem.", false);
