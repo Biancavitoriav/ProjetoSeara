@@ -1,0 +1,12 @@
+----------------------------------------------------
+Cod. Barras: 567890111 - Nome do Produto:lasanha
+Quantidade: 1 - Preço: 2.0
+Nome: geovanna diniz  - E-mail: geovanna@gmail.com
+Nome da loja: Loja Centro São Paulo
+CEP: 01153 000 - Rua: Avenida Paulista - Complemento: Não tem.
+----------------------------------------------------
+Cod. Barras: 230964752 - Nome do Produto:presunto
+Quantidade: 29 - Preço: 89.0
+Nome: geovanna diniz  - E-mail: geovanna@gmail.com
+Nome da loja: Loja Centro São Paulo
+CEP: 01153 000 - Rua: Avenida Paulista - Complemento: Não tem.
